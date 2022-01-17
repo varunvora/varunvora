@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am a Computer Science graduate student at Purdue University
+
+🔍 Looking for Software Engineering internships for Summer 2022
+
+📫 Email: vora18 at purdue dot edu
 
 <!--
 **varunvora/varunvora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
