@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am a Computer Science graduate student at Purdue University
 
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunvora&show_icons=true&theme=radical&count_private=true)
+
 <!--
 **varunvora/varunvora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
